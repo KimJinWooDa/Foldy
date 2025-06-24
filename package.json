@@ -1,20 +1,16 @@
 {
     "name": "com.kimjinwooda.foldy",
     "version": "1.0.0",
-    "type": "tool",
     "displayName": "Foldy",
-    "description": "에셋 임포트시 규칙 자동 적용 유틸",
+    "description": "Unity 에디터에서만 사용할 수 있는 유틸도구입니다.",
     "unity": "6000.1",
-    "license": "MIT",
     "author": {
       "name": "jinwoo",
       "url": "https://github.com/KimJinWooDa/Foldy"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/KimJinWooDa/Foldy.git"
-    },
-    "keywords": ["folder", "organizer", "asset"],
-    "dependencies": {}
-  }
-  
+    "keywords": [
+      "Folder",
+      "Organizer",
+      "Asset"
+    ]
+}

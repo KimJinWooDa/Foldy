@@ -6,7 +6,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace AssetOrganizer
+namespace Foldy
 {
     /// <summary>
     /// 에셋 자동 처리 포스트프로세서 (안정화 버전)

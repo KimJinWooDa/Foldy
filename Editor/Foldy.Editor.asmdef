@@ -1,0 +1,18 @@
+{
+    "name": "Foldy.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb4156f89e4c99741a2086f34ba4c6f3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
